@@ -1,0 +1,11 @@
+C:\Github\UnitTesting\UnitTesting\Bank\bin\Debug\net6.0\Bank.deps.json
+C:\Github\UnitTesting\UnitTesting\Bank\bin\Debug\net6.0\Bank.dll
+C:\Github\UnitTesting\UnitTesting\Bank\bin\Debug\net6.0\ref\Bank.dll
+C:\Github\UnitTesting\UnitTesting\Bank\bin\Debug\net6.0\Bank.pdb
+C:\Github\UnitTesting\UnitTesting\Bank\obj\Debug\net6.0\Bank.GeneratedMSBuildEditorConfig.editorconfig
+C:\Github\UnitTesting\UnitTesting\Bank\obj\Debug\net6.0\Bank.AssemblyInfoInputs.cache
+C:\Github\UnitTesting\UnitTesting\Bank\obj\Debug\net6.0\Bank.AssemblyInfo.cs
+C:\Github\UnitTesting\UnitTesting\Bank\obj\Debug\net6.0\Bank.csproj.CoreCompileInputs.cache
+C:\Github\UnitTesting\UnitTesting\Bank\obj\Debug\net6.0\Bank.dll
+C:\Github\UnitTesting\UnitTesting\Bank\obj\Debug\net6.0\ref\Bank.dll
+C:\Github\UnitTesting\UnitTesting\Bank\obj\Debug\net6.0\Bank.pdb
